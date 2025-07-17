@@ -4,7 +4,7 @@ análisis multi-ómico no supervisado
 
 This project integrates transcriptomics and proteomics data from cancer cell lines 
 to analyze drug response patterns using MOFA (Multi-Omics Factor Analysis) and 
-pathway enrichment methods.
+a correlation and drug enrichment approach.
 
 
 Data Used (https://depmap.org/portal/)
