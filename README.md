@@ -2,9 +2,7 @@ Project: Identificación de factores biológicos que influyen en
 la respuesta a fármacos anticancerígenos mediante
 análisis multi-ómico no supervisado
 
-This project integrates transcriptomics and proteomics data from cancer cell lines 
-to analyze drug response patterns using MOFA (Multi-Omics Factor Analysis) and 
-a correlation and drug enrichment approach.
+MIRACS (Multiomic Integration for Resistance Association via Correlation Strategy) is a methodology that integrates transcriptomic and proteomic data using Multi-Omics Factor Analysis (MOFA) to identify latent molecular programs associated with drug resistance. 
 
 
 Data Used (https://depmap.org/portal/)
