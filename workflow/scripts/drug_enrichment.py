@@ -28,7 +28,7 @@ def compute_correlation(drug_col, df_counts, df_drugs, min_len, method='spearman
             df_subfeature = df_counts[feature].dropna()
             shared_cells = df_suboutputs.index.intersection(df_subfeature.index)
 
-            if len(shared_cells) > 1:
+            if len(shared_cells) > 5:
                 x = df_suboutputs[shared_cells].sort_index().values
                 y = df_subfeature[shared_cells].sort_index().values
                 if method == 'pearson':
